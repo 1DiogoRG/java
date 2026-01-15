@@ -7,7 +7,7 @@ Sistema bancário modular com persistência de dados em disco e validação de r
 - **Data Access Object (DAO):** Padrão simplificado para gerenciamento de dados.
 - **Error Handling:** Validação robusta de tipos e regras (InputMismatch e Business Rules).
 
-## 🚀 Como testar a "Realidade"
+## 🚀 Como testar
 1. Execute o programa e cadastre um cliente.
 2. Feche o Eclipse completamente.
 3. Abra e execute novamente.
